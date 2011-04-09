@@ -1,3 +1,7 @@
 This is an example app from Head First Design Pattern Book.
 
 I will use this simple app to show some OO concepts to my students.
+
+The first pattern is Strategy (Duck classes).
+
+The slides associated with this class can be downloaded at http://ederig.com/download/POOII.pdf    (pt-br)
